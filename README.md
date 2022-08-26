@@ -1,1 +1,2 @@
-# reto5-refactorizacion
+# reto5-refactorización
+Integrantes: Santiago Graciano David
